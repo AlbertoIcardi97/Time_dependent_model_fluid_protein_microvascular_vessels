@@ -1,0 +1,4 @@
+32
+1
+% row 1: Ntubes          (# of tubes in the network) 
+% row 2: Tube_number     (Tube considered in this code)

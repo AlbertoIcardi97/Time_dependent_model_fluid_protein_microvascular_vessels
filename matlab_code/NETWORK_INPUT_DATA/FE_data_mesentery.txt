@@ -1,0 +1,8 @@
+60
+60
+1
+% row 1 contains the number of elements 
+% row 2 contains the number of temporal elements 
+% row 3 contains the value of the flag ilump 
+% ilump = 1 ----> trapezoidal quadrature rule to compute the mass matrix
+% ilump = 0 ----> mass matrix is evaluated exactly
